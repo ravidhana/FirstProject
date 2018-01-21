@@ -30,7 +30,7 @@ namespace FirstXAndroid
             };
 
             Log.Debug(TAG, "MainActivity is loaded.");
-            Log.Debug(TAG, "MainActivity is loaded."); 
+          
         }
     }
 }
